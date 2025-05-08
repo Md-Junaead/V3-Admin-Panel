@@ -17,6 +17,7 @@ void main() {
 }
 // flutter build windows
 // robisam496@gmail.com
+// http://75.119.134.82:6160/api/ProfitWithdrawalBank/get
 
 class AdminPanel extends StatelessWidget {
   const AdminPanel({super.key});
